@@ -1,0 +1,216 @@
+work_year,experience_level,employment_type,job_title,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,Category
+2024,MI,FT,Data Engineer,138000,US,0,US,M,Above AVG
+2024,MI,FT,Data Engineer,86000,US,0,US,M,Below AVG
+2024,EN,FT,Data Analyst,179000,US,0,US,M,Above AVG
+2024,EN,FT,Data Analyst,112000,US,0,US,M,Below AVG
+2024,MI,FT,Business Intelligence Developer,92000,US,0,US,M,Below AVG
+2024,MI,FT,Business Intelligence Developer,80000,US,0,US,M,Below AVG
+2024,SE,FT,BI Developer,90000,US,100,US,M,Below AVG
+2024,SE,FT,BI Developer,70000,US,100,US,M,Below AVG
+2024,SE,FT,Business Intelligence Analyst,127000,US,0,US,M,Above AVG
+2024,SE,FT,Business Intelligence Analyst,72600,US,0,US,M,Below AVG
+2024,EN,FT,Data Developer,70000,US,100,US,M,Below AVG
+2024,EN,FT,Data Developer,50000,US,100,US,M,Below AVG
+2024,EN,FT,Data Analyst,83000,US,0,US,M,Below AVG
+2024,EN,FT,Data Analyst,71000,US,0,US,M,Below AVG
+2024,SE,FT,AI Architect,198650,US,0,US,M,Above AVG
+2024,SE,FT,AI Architect,137000,US,0,US,M,Above AVG
+2024,SE,FT,Data Architect,160000,US,0,US,M,Above AVG
+2024,SE,FT,Data Architect,100000,US,0,US,M,Below AVG
+2024,EN,FT,Data Analyst,92700,US,100,US,M,Below AVG
+2024,EN,FT,Data Analyst,64900,US,100,US,M,Below AVG
+2024,MI,FT,Data Scientist,166000,US,0,US,M,Above AVG
+2024,MI,FT,Data Scientist,73000,US,0,US,M,Below AVG
+2024,MI,FT,Data Analyst,81713,US,100,US,M,Below AVG
+2024,MI,FT,Data Analyst,48067,US,100,US,M,Below AVG
+2024,MI,FT,Machine Learning Engineer,179000,US,0,US,M,Above AVG
+2024,MI,FT,Machine Learning Engineer,112000,US,0,US,M,Below AVG
+2024,SE,FT,Data Science,111800,US,0,US,M,Below AVG
+2024,SE,FT,Data Science,68195,US,0,US,M,Below AVG
+2024,SE,FT,Business Intelligence Analyst,132000,US,0,US,M,Above AVG
+2024,SE,FT,Business Intelligence Analyst,82500,US,0,US,M,Below AVG
+2024,MI,FT,Research Engineer,140000,US,0,US,M,Above AVG
+2024,MI,FT,Research Engineer,100000,US,0,US,M,Below AVG
+2024,MI,FT,Data Analyst,85000,US,100,US,M,Below AVG
+2024,MI,FT,Data Analyst,61800,US,100,US,M,Below AVG
+2024,MI,FT,Data Analyst,129118,US,0,US,M,Above AVG
+2024,MI,FT,Data Analyst,86078,US,0,US,M,Below AVG
+2024,SE,FT,Data Analyst,140000,CA,0,CA,M,Above AVG
+2024,SE,FT,Data Analyst,107000,CA,0,CA,M,Below AVG
+2024,MI,FT,Data Scientist,97000,US,0,US,M,Below AVG
+2024,MI,FT,Data Scientist,62000,US,0,US,M,Below AVG
+2024,MI,FT,Data Science Manager,237000,US,100,US,M,Above AVG
+2024,MI,FT,Data Science Manager,201450,US,100,US,M,Above AVG
+2024,EX,FT,Data Engineer,219650,US,100,US,M,Above AVG
+2024,EX,FT,Data Engineer,136000,US,100,US,M,Above AVG
+2024,EN,FT,Data Analyst,92700,US,100,US,M,Below AVG
+2024,EN,FT,Data Analyst,64900,US,100,US,M,Below AVG
+2024,MI,FT,Business Intelligence Developer,87800,US,0,US,M,Below AVG
+2024,MI,FT,Business Intelligence Developer,76300,US,0,US,M,Below AVG
+2024,SE,FT,Research Engineer,97000,US,0,US,M,Below AVG
+2024,SE,FT,Research Engineer,62000,US,0,US,M,Below AVG
+2024,SE,FT,Machine Learning Engineer,253000,US,0,US,M,Above AVG
+2024,SE,FT,Machine Learning Engineer,187000,US,0,US,M,Above AVG
+2024,SE,FT,Machine Learning Engineer,250000,US,0,US,M,Above AVG
+2024,SE,FT,Machine Learning Engineer,150000,US,0,US,M,Above AVG
+2024,MI,FT,Data Engineer,184000,US,0,US,M,Above AVG
+2024,MI,FT,Data Engineer,123000,US,0,US,M,Above AVG
+2024,SE,FT,Data Scientist,245000,US,0,US,M,Above AVG
+2024,SE,FT,Data Scientist,180000,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,184000,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,123000,US,0,US,M,Above AVG
+2024,SE,FT,AI Architect,317000,US,0,US,M,Above AVG
+2024,SE,FT,AI Architect,266000,US,0,US,M,Above AVG
+2024,SE,FT,Machine Learning Engineer,229000,US,0,US,M,Above AVG
+2024,SE,FT,Machine Learning Engineer,221000,US,0,US,M,Above AVG
+2024,MI,FT,Data Engineer,184000,US,0,US,M,Above AVG
+2024,MI,FT,Data Engineer,123000,US,0,US,M,Above AVG
+2024,MI,FT,BI Developer,120000,US,0,US,M,Below AVG
+2024,MI,FT,BI Developer,62100,US,0,US,M,Below AVG
+2024,SE,FT,Data Engineer,210000,US,100,US,M,Above AVG
+2024,SE,FT,Data Engineer,162000,US,100,US,M,Above AVG
+2024,SE,FT,Machine Learning Engineer,198000,US,0,US,M,Above AVG
+2024,SE,FT,Machine Learning Engineer,162000,US,0,US,M,Above AVG
+2024,SE,FT,Machine Learning Engineer,300000,US,0,US,M,Above AVG
+2024,SE,FT,Machine Learning Engineer,180000,US,0,US,M,Above AVG
+2024,MI,FT,Data Scientist,68088,US,0,US,M,Below AVG
+2024,MI,FT,Data Scientist,54552,US,0,US,M,Below AVG
+2024,SE,FT,Data Scientist,324000,US,0,US,M,Above AVG
+2024,SE,FT,Data Scientist,159000,US,0,US,M,Above AVG
+2024,MI,FT,Data Analytics Manager,99000,US,0,US,M,Below AVG
+2024,MI,FT,Data Analytics Manager,70000,US,0,US,M,Below AVG
+2024,SE,FT,Machine Learning Engineer,220000,US,0,US,M,Above AVG
+2024,SE,FT,Machine Learning Engineer,146000,US,0,US,M,Above AVG
+2024,MI,FT,Data Scientist,105000,US,0,US,M,Below AVG
+2024,MI,FT,Data Scientist,70000,US,0,US,M,Below AVG
+2024,MI,FT,Data Engineer,110000,US,100,US,M,Below AVG
+2024,MI,FT,Data Engineer,90000,US,100,US,M,Below AVG
+2024,MI,FT,Data Scientist,60000,US,0,US,M,Below AVG
+2024,MI,FT,Data Scientist,55000,US,0,US,M,Below AVG
+2024,EN,FT,Data Analyst,116013,US,0,US,M,Below AVG
+2024,EN,FT,Data Analyst,92810,US,0,US,M,Below AVG
+2024,SE,FT,Research Analyst,200000,US,0,US,M,Above AVG
+2024,SE,FT,Research Analyst,150000,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,221000,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,138000,US,0,US,M,Above AVG
+2024,MI,FT,Data Engineer,146100,US,0,US,M,Above AVG
+2024,MI,FT,Data Engineer,86500,US,0,US,M,Below AVG
+2024,SE,FT,Data Scientist,159300,US,0,US,M,Above AVG
+2024,SE,FT,Data Scientist,96600,US,0,US,M,Below AVG
+2024,SE,FT,Data Engineer,209300,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,118300,US,0,US,M,Below AVG
+2024,SE,FT,Data Scientist,170000,US,100,US,M,Above AVG
+2024,SE,FT,Data Scientist,130000,US,100,US,M,Above AVG
+2024,SE,FT,Data Engineer,140000,US,100,US,M,Above AVG
+2024,SE,FT,Data Engineer,97200,US,100,US,M,Below AVG
+2024,MI,FT,Data Scientist,179000,US,0,US,M,Above AVG
+2024,MI,FT,Data Scientist,112000,US,0,US,M,Below AVG
+2024,SE,FT,Data Analyst,140000,US,100,US,M,Above AVG
+2024,SE,FT,Data Analyst,120000,US,100,US,M,Below AVG
+2024,MI,FT,Data Engineer,308000,US,0,US,M,Above AVG
+2024,MI,FT,Data Engineer,193000,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,240000,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,180000,US,0,US,M,Above AVG
+2024,SE,FT,Data Analyst,126480,US,0,US,M,Above AVG
+2024,SE,FT,Data Analyst,82620,US,0,US,M,Below AVG
+2024,SE,FT,Machine Learning Engineer,324000,US,0,US,M,Above AVG
+2024,SE,FT,Machine Learning Engineer,159000,US,0,US,M,Above AVG
+2024,MI,FT,Data Scientist,140025,US,100,US,M,Above AVG
+2024,MI,FT,Data Scientist,102300,US,100,US,M,Below AVG
+2024,SE,FT,Data Engineer,180000,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,150000,US,0,US,M,Above AVG
+2024,MI,FT,Data Scientist,224000,CA,0,CA,M,Above AVG
+2024,MI,FT,Data Scientist,146000,CA,0,CA,M,Above AVG
+2024,SE,FT,AI Engineer,150000,GB,100,GB,M,Above AVG
+2024,SE,FT,AI Engineer,112500,GB,100,GB,M,Below AVG
+2024,MI,FT,Research Scientist,81500,US,100,US,M,Below AVG
+2024,MI,FT,Research Scientist,75000,US,100,US,M,Below AVG
+2024,SE,FT,Data Scientist,106875,US,0,US,M,Below AVG
+2024,SE,FT,Data Scientist,71250,US,0,US,M,Below AVG
+2024,MI,FT,Data Science Engineer,245000,US,100,US,M,Above AVG
+2024,MI,FT,Data Science Engineer,135000,US,100,US,M,Above AVG
+2024,SE,FT,Business Intelligence Developer,144138,US,0,US,M,Above AVG
+2024,SE,FT,Business Intelligence Developer,104828,US,0,US,M,Below AVG
+2024,SE,FT,Data Scientist,161000,US,0,US,M,Above AVG
+2024,SE,FT,Data Scientist,133200,US,0,US,M,Above AVG
+2024,MI,FT,Data Scientist,161875,US,0,US,M,Above AVG
+2024,MI,FT,Data Scientist,97125,US,0,US,M,Below AVG
+2024,SE,FT,Machine Learning Engineer,196350,US,100,US,M,Above AVG
+2024,SE,FT,Machine Learning Engineer,127500,US,100,US,M,Above AVG
+2024,MI,FT,Data Scientist,135450,US,100,US,M,Above AVG
+2024,MI,FT,Data Scientist,72870,US,100,US,M,Below AVG
+2024,SE,FT,Data Science,237200,US,0,US,M,Above AVG
+2024,SE,FT,Data Science,172500,US,0,US,M,Above AVG
+2024,SE,FT,Data Scientist,184800,US,0,US,M,Above AVG
+2024,SE,FT,Data Scientist,161900,US,0,US,M,Above AVG
+2024,SE,FT,Data Scientist,146800,US,0,US,M,Above AVG
+2024,SE,FT,Data Scientist,117400,US,0,US,M,Below AVG
+2024,EN,FT,Data Analyst,90000,US,0,US,M,Below AVG
+2024,EN,FT,Data Analyst,60000,US,0,US,M,Below AVG
+2024,SE,FT,Data Product Manager,227200,US,0,US,M,Above AVG
+2024,SE,FT,Data Product Manager,199100,US,0,US,M,Above AVG
+2024,MI,FT,Data Scientist,310000,US,0,US,M,Above AVG
+2024,MI,FT,Data Scientist,245000,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,140000,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,125000,US,0,US,M,Above AVG
+2024,MI,FT,Machine Learning Engineer,223000,US,0,US,M,Above AVG
+2024,MI,FT,Machine Learning Engineer,171600,US,0,US,M,Above AVG
+2024,SE,FT,Data Analyst,192500,US,100,US,M,Above AVG
+2024,SE,FT,Data Analyst,122500,US,100,US,M,Below AVG
+2024,SE,FT,Data Analyst,162900,US,100,US,M,Above AVG
+2024,SE,FT,Data Analyst,117725,US,100,US,M,Below AVG
+2024,EN,FT,Data Analyst,140000,US,0,US,M,Above AVG
+2024,EN,FT,Data Analyst,100000,US,0,US,M,Below AVG
+2024,MI,FT,Data Engineer,170000,US,100,US,M,Above AVG
+2024,MI,FT,Data Engineer,105000,US,100,US,M,Below AVG
+2024,SE,FT,Data Scientist,180000,US,0,US,M,Above AVG
+2024,SE,FT,Data Scientist,139000,US,0,US,M,Above AVG
+2024,SE,FT,Analytics Engineer,234200,US,0,US,M,Above AVG
+2024,SE,FT,Analytics Engineer,124000,US,0,US,M,Above AVG
+2024,MI,FT,Data Scientist,153700,US,100,US,M,Above AVG
+2024,MI,FT,Data Scientist,87300,US,100,US,M,Below AVG
+2024,SE,FT,Data Engineer,282000,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,208000,US,0,US,M,Above AVG
+2024,SE,FT,Data Scientist,77777,PT,0,PT,M,Below AVG
+2024,SE,FT,Data Scientist,66666,PT,0,PT,M,Below AVG
+2024,MI,FT,Data Engineer,162000,US,100,US,M,Above AVG
+2024,MI,FT,Data Engineer,129000,US,100,US,M,Above AVG
+2024,SE,FT,Research Scientist,138000,US,0,US,M,Above AVG
+2024,SE,FT,Research Scientist,86000,US,0,US,M,Below AVG
+2024,MI,FT,Machine Learning Engineer,100000,IE,100,IE,M,Below AVG
+2024,MI,FT,Machine Learning Engineer,94444,IE,100,IE,M,Below AVG
+2024,EN,FT,Research Analyst,110000,US,0,US,M,Below AVG
+2024,EN,FT,Research Analyst,90000,US,0,US,M,Below AVG
+2024,SE,FT,Data Engineer,255800,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,176000,US,0,US,M,Above AVG
+2024,EN,FT,Research Analyst,120000,US,100,US,M,Below AVG
+2024,EN,FT,Research Analyst,105000,US,100,US,M,Below AVG
+2024,SE,FT,Analytics Engineer,130943,GB,0,GB,M,Above AVG
+2024,SE,FT,Analytics Engineer,104220,GB,0,GB,M,Below AVG
+2024,EN,FT,Data Analyst,50000,GB,100,GB,M,Below AVG
+2024,EN,FT,Data Analyst,43750,GB,100,GB,M,Below AVG
+2024,MI,FT,Data Engineer,210000,US,0,US,M,Above AVG
+2024,MI,FT,Data Engineer,140000,US,0,US,M,Above AVG
+2024,MI,FT,Data Engineer,46250,GB,100,GB,M,Below AVG
+2024,MI,FT,Data Engineer,30000,GB,100,GB,M,Below AVG
+2024,SE,FT,Data Engineer,165000,US,100,US,M,Above AVG
+2024,SE,FT,Data Engineer,150000,US,100,US,M,Above AVG
+2024,SE,FT,Data Architect,160000,US,0,US,M,Above AVG
+2024,SE,FT,Data Architect,130000,US,0,US,M,Above AVG
+2024,EN,FT,Data Analyst,156000,US,0,US,M,Above AVG
+2024,EN,FT,Data Analyst,124000,US,0,US,M,Above AVG
+2024,SE,FT,Analytics Engineer,189000,US,100,US,M,Above AVG
+2024,SE,FT,Analytics Engineer,140000,US,100,US,M,Above AVG
+2024,SE,FT,Data Analyst,158494,US,100,US,M,Above AVG
+2024,SE,FT,Data Analyst,88052,US,100,US,M,Below AVG
+2024,SE,FT,Data Engineer,175000,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,140000,US,0,US,M,Above AVG
+2024,MI,FT,Data Specialist,111000,US,0,US,M,Below AVG
+2024,MI,FT,Data Specialist,79200,US,0,US,M,Below AVG
+2024,SE,FT,Data Analyst,220000,US,100,US,M,Above AVG
+2024,SE,FT,Data Analyst,170000,US,100,US,M,Above AVG
+2024,SE,FT,Data Scientist,195500,US,100,US,M,Above AVG
+2024,SE,FT,Data Scientist,141300,US,100,US,M,Above AVG
+2024,SE,FT,Data Engineer,139810,US,0,US,M,Above AVG
+2024,SE,FT,Data Engineer,95325,US,0,US,M,Below AVG
+2023,SE,FT,Data Modeler,258700,US,0,US,M,Above AVG
